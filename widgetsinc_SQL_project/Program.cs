@@ -6,7 +6,7 @@ namespace widgetsinc_SQL_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
